@@ -1,4 +1,4 @@
-import { ChevronUp, LayoutDashboard, User, Settings } from "lucide-react";
+import { ChevronUp, LayoutDashboard, User } from "lucide-react";
 import { Link } from "react-router-dom";
 import {
   Sidebar,
