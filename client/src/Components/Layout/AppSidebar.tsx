@@ -29,11 +29,6 @@ const items = [
     url: "/dashboard",
     icon: LayoutDashboard,
   },
-  {
-    title: "Setting",
-    url: "/setting",
-    icon: Settings,
-  },
 ];
 
 export function AppSidebar() {
